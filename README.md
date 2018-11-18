@@ -32,3 +32,8 @@ Add to your package.json 'sripts'
 ```
 "json:server": "json-server --watch db.json"
 ```
+
+start server
+```
+npm run json:server
+```
