@@ -1,0 +1,18 @@
+{
+  "name": "post-project",
+  "version": "1.0.0",
+  "description": "posting with json db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016\u0016https://github.com/femitj/post-project.git"
+  },
+  "author": "Tijani",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}
